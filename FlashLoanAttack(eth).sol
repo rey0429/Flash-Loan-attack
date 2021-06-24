@@ -4,7 +4,7 @@ pragma solidity ^0.6.6;
 //import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 //import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPool.sol";
 
-// PancakeSwap Smart Contracts
+// Uniswap Smart Contracts
 //import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IUniswapCallee.sol";
 //import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IUniswapFactory.sol";
 //import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IUniswapPair.sol";
